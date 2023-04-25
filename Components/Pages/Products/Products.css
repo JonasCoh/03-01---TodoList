@@ -1,0 +1,9 @@
+.productCard {
+    display: flex;
+    padding: 10px;
+    border: 1px solid lightgray;
+    background: white;
+    gap: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+}

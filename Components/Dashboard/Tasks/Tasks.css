@@ -1,0 +1,13 @@
+.Tasks>.task {
+    border: 1px solid lightblue;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.Tasks>.task h3 {
+    margin: 0;
+}
+
+.Tasks>.task .red {
+    color: red;
+}

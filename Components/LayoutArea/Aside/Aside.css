@@ -1,0 +1,8 @@
+.Aside {
+    text-align: center;
+}
+
+.Aside .active {
+    font-weight: bolder;
+    color: black;
+}

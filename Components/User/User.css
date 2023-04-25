@@ -1,0 +1,21 @@
+.User {
+    padding: 10px;
+    border: 1px solid lightblue;
+    display: inline-block;
+    box-shadow: 5px 5px 5px 5px gray;
+    text-align: center;
+    min-width: 280px;
+    margin-right: 20px;
+}
+
+.User h6 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+.User img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 50%;
+}
